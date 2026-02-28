@@ -56,7 +56,7 @@ A Landing Page contém as seguintes seções:
 ## 🎯 Objetivos de Aprendizado
 
 - Praticar HTML semântico
-- Trabalhar responsividade real de mercado
+- Trabalhar responsividade
 - Melhorar organização de CSS
 - Aplicar boas práticas de estruturação de layout
 - Desenvolver atenção a detalhes visuais
