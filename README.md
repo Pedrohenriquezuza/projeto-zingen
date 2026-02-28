@@ -1,5 +1,6 @@
 # 🎤 Zingen - Landing Page
 
+<img width="993" height="574" alt="image" src="https://github.com/user-attachments/assets/05fa5107-c4eb-4a8c-a4f3-bb28ca8819a4" />
 
 
 ## 📌 Sobre o Projeto
@@ -62,9 +63,5 @@ A Landing Page contém as seguintes seções:
 
 ---
 
-## 📂 Como Executar o Projeto
+<img width="996" height="750" alt="image" src="https://github.com/user-attachments/assets/57693464-b407-4fbb-9640-b61da8b6d726" />
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
